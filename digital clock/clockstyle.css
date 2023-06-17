@@ -1,0 +1,49 @@
+body{
+    /* background-image: url("clockbackground2.jpg"); */
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.clock{
+    /* border:1px solid black;
+    height:200px;
+    width:400px; */
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    margin-top:150px;
+    
+}
+
+.digi{
+    /* border:1px solid black; */
+    font-family:cursive;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin: 21px;
+}
+.tim{
+    display:flex;
+    /* border:1px solid black; */
+    
+}
+.bx{
+    /* border:1px solid black; */
+    margin: 21px;
+}
+.n{
+font-size:40px;
+font-weight:500;
+
+}
+.m{
+    font-family:cursive;
+    font-size: 20px;
+    
+
+}
+.ampmtx{
+    margin-top:18px;
+}
